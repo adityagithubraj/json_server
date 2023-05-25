@@ -1,29 +1,33 @@
 {
     "users": [
         {
+          "id":1,
             "Username": "Aditya",
             "Email": "adi@gmail.com",
             "Password": 123,
-            "Role": "user"
+            "DoctorCheck": false
         },
         {
+          "id":2,
             "Username": "Ankita",
             "Email": "ankita@gmail.com",
             "Password": 123,
-            "Role": "doctor"
+            "DoctorCheck": false
         },
         {
+          "id":3,
             "Username": "Rama N",
             "Email": "rama@gmail.com",
             "Password": 123,
-            "Role": "user"
+            "DoctorCheck": false
         },
         {
           
+          "id":4,
             "Username": "Jane Doe",
             "Email": "Doe@gmail.com",
             "Password": 123,
-            "Role": "doctor"
+            "DoctorCheck": false
         }
     ],
 
